@@ -32,6 +32,12 @@ uv run main.py
 
 ### 1. 安装依赖
 
+如果你安装了 [uv](https://docs.astral.sh/uv/)，你可以直接运行：
+
+```bash
+uv run main.py
+```
+
 本项目依赖于 `requests` 和 `pycryptodome`，请确保你的 Python 环境中已经安装了这些库。
 
 ```bash
