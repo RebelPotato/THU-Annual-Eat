@@ -1,4 +1,4 @@
-# THU-How-Did-You-Eat
+# THU-WhatDidIEat
 
 一年过去了，你在华子用校园卡花的钱都花在哪儿了？
 
@@ -68,6 +68,8 @@ python main.py
 用浏览器打开 index.html，就可以看到结果了！
 
 ![result](./assets/result.png)
+
+（打抛猪米饭真是三天不吃就会想啊）
 
 ## LICENSE
 
